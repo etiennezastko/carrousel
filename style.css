@@ -1,0 +1,8 @@
+#carrousel {
+  height: 240px;
+  width: 120px;
+  background-image: url("images/1.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
