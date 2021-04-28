@@ -1,8 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
 #carrousel {
-  height: 240px;
-  width: 120px;
+  height: 100vh;
+  width: 100vw;
   background-image: url("images/1.jpg");
-  background-size: contain;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
 }

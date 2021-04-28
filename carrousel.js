@@ -71,3 +71,4 @@ function leftClick() {
         console.log(counter);
     }
 }
+setInterval(rightClick, 500);
